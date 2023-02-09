@@ -10,7 +10,6 @@ export const homepageText = `
   <p>Welcome to the Newton Cardinals Dynasty Fantasy Football League!</p>
   <p>This league is made up of high school friends from Newton, Iowa who have stayed connected through their shared love of football, even after they've gone their separate ways and now live in different cities.</p>
   <p>The Newton Cardinals were their high school football team's mascot and their fierce competitiveness has only intensified over the years.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   <p>This league, behind our fearless Commish Andrew, gives us the opportunity to dive into strategy, camaraderie, and of course, plenty of trash talking!</p>
 `;
 
